@@ -8,8 +8,7 @@ body {
 
 h1 {
     /* escribí las reglas para el h1 aquí */
-    background-color: black;
-    opacity: 0.8;
+    background-color: rgba(0, 0, 0, 0.8);
     color: #f4e033;
 }
 
