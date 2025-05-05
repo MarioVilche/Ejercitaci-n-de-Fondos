@@ -1,0 +1,21 @@
+body {
+    /* escribí las reglas para el body aquí */
+    background-image: url(./images/Gato.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    /* escribí las reglas para el h1 aquí */
+    background-color: black;
+    opacity: 0.8;
+    color: #f4e033;
+}
+
+h2 {
+    /* escribí las reglas para el h2 aquí */
+    background-color: orange;
+    color: white;
+    opacity: 0.4;
+}
